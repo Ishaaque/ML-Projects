@@ -1,5 +1,5 @@
 Book Recommendation System
 This is a ML project which is made using python
-and for frontend streamlit is used this project Recommendes the user the 
+and for frontend streamlit is used this project Recommends the user the 
 appropriate book according to the user input made using collaborative filtering
 and trained using k nearest neighbour alogrithm use app. py to run. 
