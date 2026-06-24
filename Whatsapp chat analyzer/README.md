@@ -1,3 +1,5 @@
+This app is designed analyze a group or personal chat and show it complete analysis using Machine leaning.
+
 How to use this app?
 
 1.Go to your WhatsApp group chat or private chat. On top right corner, click on the three dots to open the menu. Select 'More' and then 'Export Chat'. Choose 'Without Media' option to export the chat.
